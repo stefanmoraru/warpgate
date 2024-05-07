@@ -1,3 +1,18 @@
+<hr>
+I am unable to continue development on Warp Gate and have been in denial about this fact for too long now. Warp Gate was and always will be my love letter to FoundryVTT -- the powerful platform, the amazing staff, and the truly remarkable community.
+
+To everyone who has had a better Foundry experience due to this module, **thank you**.
+
+To everyone who has supported this module's development through feature requests, bug reports, and pull requests, **thank you**.
+
+To everyone who has taken this library module and built amazing things with it, **thank you**.
+
+To the entire FoundryVTT community, **thank you**.
+
+This module, and the community support behind it, has played no small part in allowing me to follow my passions and bring content from phenomenal creators to the Foundry platform. I am forever grateful.
+
+<hr>
+
 <p align="center">
 <img src="https://storage.googleapis.com/badgerwerks/branding/warpgate-badge-sm.webp" title="Warp Gate badge"><br>
 <img alt="GitHub all releases" src="https://img.shields.io/github/v/release/trioderegion/warpgate?color=blue&label=release"> <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/downloads/trioderegion/warpgate/latest/module.zip?color=blue&label=downloads%20%28latest%29">
